@@ -1,0 +1,78 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local environment file
+appsettings.local.json
+appsettings.Development.json
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+*.db
+*.db-journal
+
+# NuGet
+*.nupkg
+*.snupkg
+/.nuget/
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# Entity Framework Core migrations (optional)
+Migrations/
+
+# dotnet publish
+publish/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node modules (if any frontend)
+node_modules/
+
+# Package lock files
+package-lock.json
+yarn.lock
